@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Screensaver>
-    <Images>
-        <Image>https://raw.githubusercontent.com/fourstripes/grandstream/main/docs/images/img1.jpg</Image>
-        <Image>https://raw.githubusercontent.com/fourstripes/grandstream/main/docs/images/img2.jpg</Image>
-        <Image>https://raw.githubusercontent.com/fourstripes/grandstream/main/docs/images/img3.jpg</Image>
-        <Image>https://raw.githubusercontent.com/fourstripes/grandstream/main/docs/images/img4.jpg</Image>
-    </Images>
-</Screensaver>
+<screensaver>
+  <image>https://cdn.prod.website-files.com/687a5aaf5d6db4ffbd5a388b/68c9ea296a4da3ffc5ad2f59_1.jpg</image>
+  <image>https://cdn.prod.website-files.com/687a5aaf5d6db4ffbd5a388b/68c9ea2919404c93c6be8003_2.jpg</image>
+  <image>https://cdn.prod.website-files.com/687a5aaf5d6db4ffbd5a388b/68c9ea291e02e77136755d2a_3.JPG</image>
+  <image>https://cdn.prod.website-files.com/687a5aaf5d6db4ffbd5a388b/68c9ea29afe43fba911c3a7f_4.jpg</image>
+</screensaver>
