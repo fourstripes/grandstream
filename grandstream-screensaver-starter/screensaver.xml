@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<screensaver>
-  <image>https://raw.githubusercontent.com/fourstripes/grandstream/main/grandstream-screensaver-starter/images/img1.jpg</image>
-  <image>https://raw.githubusercontent.com/fourstripes/grandstream/main/grandstream-screensaver-starter/images/img2.jpg</image>
-  <image>https://raw.githubusercontent.com/fourstripes/grandstream/main/grandstream-screensaver-starter/images/img3.jpg</image>
-  <image>https://raw.githubusercontent.com/fourstripes/grandstream/main/grandstream-screensaver-starter/images/img4.jpg</image>
-</screensaver>
+<Screensaver>
+  <Image>
+    <Url>https://raw.githubusercontent.com/fourstripes/grandstream/main/grandstream-screensaver-starter/images/img1.jpg</Url>
+  </Image>
+  <Image>
+    <Url>https://raw.githubusercontent.com/fourstripes/grandstream/main/grandstream-screensaver-starter/images/img2.jpg</Url>
+  </Image>
+  <Image>
+    <Url>https://raw.githubusercontent.com/fourstripes/grandstream/main/grandstream-screensaver-starter/images/img3.jpg</Url>
+  </Image>
+  <Image>
+    <Url>https://raw.githubusercontent.com/fourstripes/grandstream/main/grandstream-screensaver-starter/images/img4.jpg</Url>
+  </Image>
+</Screensaver>
